@@ -1,5 +1,5 @@
 # JohnOS-Legacy
-JohnOS 9, JohnOS 11, and earlier versions made with Scratch by MIT
+JohnOS 11, JohnOS 9, and earlier versions made with Scratch by MIT
 -------
 
 JohnOS 10
