@@ -1,0 +1,1 @@
+These are Adobe Shockwave Flash (Flash Player) files for old Scratch 2 versions of JohnOS 9. The files on the Scratch website fail to load, possibly because the SWF was re-uploaded to Scratch at some point. At the time it would work, however the Scratch web site could have not stripped out the Flash code.
